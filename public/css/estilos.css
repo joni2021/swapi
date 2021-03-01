@@ -1,0 +1,30 @@
+.bg-black{
+    background-color: #000 !important;
+}
+
+main{
+    background: #000;
+    color: #ddd;
+}
+
+.card {
+    color: #1a1e21;
+}
+
+body{
+    position: relative;
+}
+
+#migracion{
+    background-color: transparent;
+    border: 1px solid#ffffde;
+    box-shadow: 0px 0px 8px 2px #fffe00;
+}
+
+
+#toast{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    z-index: 10000;
+}
